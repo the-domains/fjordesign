@@ -1,7 +1,7 @@
 name: Fjordesign
 favicon: null
 layout_spectrum: 0.406238900963217
-typography_spectrum: 0.22228096146136522
+typography_spectrum: 0.30374
 cta:
   domain: null
   bucket: null
@@ -18,11 +18,11 @@ color:
   brandColors:
     - '#231e1c'
     - '#4b4543'
-    - '#86807e'
+    - '#8a8482'
     - '#fefefe'
-    - '#c7c1c3'
+    - '#c3bdbf'
   brandStrength: 0.4375
-  lightness: 0.037656724685803056
+  lightness: 0.3125
   saturation: 0.5
-  rhythmicContrast: 0
+  rhythmicContrast: 0.25
 purpose: []
